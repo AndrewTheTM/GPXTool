@@ -1,1 +1,4 @@
-"Readme" 
+This is a utility that will read in a GPX data file (such as one produced by Endomondo) and do some graphs
+of some stats.
+
+Keywords: GPS, GPX
